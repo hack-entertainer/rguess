@@ -1,1 +1,1 @@
-git@github.com:hack-entertainer/rguess.git
+(https://rust-book.cs.brown.edu/ch02-00-guessing-game-tutorial.html)
